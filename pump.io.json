@@ -1,0 +1,21 @@
+{
+    "driver":  "mongodb",
+    "params":  {"host": "localhost", "port":"27017", "dbname":"pump_io"},
+    "secret":  "my dog has fleas",
+    "noweb":  false,
+    "logfile": "log.txt",
+    "logLevel": "debug",
+    "site":  "Awesome Sauce",
+    "owner":  "Awesome Inc.",
+    "ownerURL":  "http://example.com/",
+    "port":  31337,
+    "hostname":  "localhost",
+    "address":  "localhost",
+    "nologger":  false,
+    "serverUser2":  "alexv",
+    "key":  "c:\\work\\ucsf\\github\\pump.io\\server.key",
+    "cert":  "c:\\work\\ucsf\\github\\pump.io\\server.crt",
+    "uploaddir": "c:\\temp\\pumpio",
+    "debugClient": false,
+    "firehose": "ofirehose.example"
+}
